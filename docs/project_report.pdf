@@ -64,13 +64,13 @@ The primary objectives of the project are:
 
 Insert:
 
-```text
+
 images/architecture.png
-```
+
 
 ### Architecture Workflow
 
-```text
+
 Sensors
 ↓
 Data Collection Layer
@@ -88,7 +88,6 @@ Decision Logic
 Streamlit Dashboard
 ↓
 Farmer/User
-```
 
 The architecture consists of sensor simulation, data processing, alert generation, and visualization layers.
 
@@ -98,9 +97,9 @@ The architecture consists of sensor simulation, data processing, alert generatio
 
 Insert:
 
-```text
+
 circuit_diagram/wokwi_design.png
-```
+
 
 ### Components Used
 
