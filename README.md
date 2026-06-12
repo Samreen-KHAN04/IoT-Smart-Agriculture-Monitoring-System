@@ -66,8 +66,6 @@ The system simulates sensor readings, stores data in CSV format, analyzes sensor
 
 # 🏗 System Architecture
 
-![Architecture](images/architecture.png)
-
 ### Workflow
 
 ```text
